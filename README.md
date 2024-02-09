@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/shreya-dabhi/ToDo">
-    <img src="https://raw.githubusercontent.com/shreya-dabhi/ToDo/master/todo_logo.png" width=74.34 height=85>
+    <img src="https://raw.githubusercontent.com/shreya-dabhi/ToDo/master/todo_logo.png" width=100 height=85>
   </a>
 
   <h3 align="center">To Do</h3>
