@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="">
-    <img src="" width=74.34 height=85>
+  <a href="https://github.com/shreya-dabhi/ToDo">
+    <img src="https://raw.githubusercontent.com/shreya-dabhi/ToDo/master/todo_logo.png" width=74.34 height=85>
   </a>
 
   <h3 align="center">To Do</h3>
@@ -38,7 +38,8 @@ Release - 1.0.0
 
 <a name="screenshots"></a>
 ## Screenshots
-![Showcase]()
+![Showcase](https://raw.githubusercontent.com/shreya-dabhi/ToDo/master/todo_showcase1.png)
+![Showcase](https://raw.githubusercontent.com/shreya-dabhi/ToDo/master/todo_showcase2.png)
 
 ## Privacy Policy
 Shreya built the converse app as a Free app. This SERVICE is provided by Shreya at no cost and is intended for use as is.
